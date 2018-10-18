@@ -17,5 +17,6 @@ end
 def find_the_cheese(cheese_strings)
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
-  cheese_strings.include?()
+  if cheese_strings.include?("cheddar" || "gouda" || ""camembert" )
+  esle
 end
